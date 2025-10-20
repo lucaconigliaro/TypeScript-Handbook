@@ -1,5 +1,5 @@
 /*
-INTRODUZIONE AI TIPI COMPLESSI IN TYPESCRIPT: OBJECT, ARRAY, TUPLE
+AI TIPI COMPLESSI IN TYPESCRIPT: OBJECT, ARRAY, TUPLE
 
 TypeScript consente di definire tipi complessi per modellare dati strutturati in modo preciso e sicuro.
 Gli oggetti (object), gli array e le tuple sono elementi fondamentali per rappresentare dati in strutture varie e flessibili,

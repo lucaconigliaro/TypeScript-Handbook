@@ -1,5 +1,5 @@
 /*
-INTRODUZIONE AI TIPI ANY, UNION, CUSTOM TYPE ED ENUM IN TYPESCRIPT
+TIPI ANY, UNION, CUSTOM TYPE ED ENUM IN TYPESCRIPT
 
 TypeScript offre diversi modi per definire i tipi, che aumentano la flessibilità e la sicurezza del codice.
 

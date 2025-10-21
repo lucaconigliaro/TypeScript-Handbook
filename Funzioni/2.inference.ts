@@ -16,15 +16,14 @@ export function moltiplica(a: number, b = 2) {
 // Qui TypeScript capisce che `b` è number e quindi
 // passare valori di tipo diverso da number genera errore
 moltiplica(5, '3'); // errore
+moltiplica(4); // 8
 
 /*
 CASI AVANZATI
-
 Quando si usa un tipo generico con parametro di default, l'inferenza può complicarsi 
 e si potrebbero ottenere errori se il default non è compatibile con il tipo generico. 
 */
 // Ad esempio:
-
 function identity<T = string>(value: T = "default" as T): T {
   return value;
 }

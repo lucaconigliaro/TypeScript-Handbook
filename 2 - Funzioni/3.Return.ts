@@ -1,6 +1,5 @@
 /*
 TIPO DI RITORNO DELLE FUNZIONI IN TYPESCRIPT
-
 In TypeScript, è possibile dichiarare esplicitamente il tipo che una funzione restituisce.
 Questo aiuta a prevenire errori, a chiarire l’intento della funzione, e permette agli strumenti di sviluppo
 di fornire suggerimenti più accurati.

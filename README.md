@@ -6,8 +6,7 @@ Volevo avere un riferimento chiaro e ordinato per tutti i concetti fondamentali,
 In questo taccuino trovi:
 
 📦 **esempi pratici** di tipi, interfacce, classi e generics  
-🔄 **spiegazioni passo passo** dei concetti principali  
-💡 **note e "trucchi del mestiere"** che ho trovato utili (anche con l'aiuto di Perplexity AI)  
+🔄 **spiegazioni passo passo** dei concetti principali
 ⚛️ **integrazione con React**: props tipizzate, state, eventi, hooks e fetch  
 
 ## 🎯 Obiettivo
